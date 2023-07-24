@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891866348671",
+    "firebase_url": "https://capstone-d2282-default-rtdb.firebaseio.com",
+    "project_id": "capstone-d2282",
+    "storage_bucket": "capstone-d2282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891866348671:android:525da263c62fdf38ab534a",
+        "android_client_info": {
+          "package_name": "com.example.stressed_out"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891866348671-lv7vkfqj5318ib6650734hoaivdeeer3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5p9lR3I7otbrNAxPZeMI_xcLOFapqt8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891866348671-lv7vkfqj5318ib6650734hoaivdeeer3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891866348671-0d97lve47dci5dhekp00hhe7qlevj554.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stressedOut"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
