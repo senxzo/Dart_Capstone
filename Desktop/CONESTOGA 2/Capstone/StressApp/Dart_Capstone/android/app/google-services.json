@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1049105076872",
+    "firebase_url": "https://stressed-out-72eaa-default-rtdb.firebaseio.com",
+    "project_id": "stressed-out-72eaa",
+    "storage_bucket": "stressed-out-72eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049105076872:android:b798103294cbc6238f053d",
+        "android_client_info": {
+          "package_name": "com.example.stressed_out"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049105076872-5agl1rmg1hoen75ovttotnbh2i2t5ek0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPeZmt7rJa2muaZKfCWQVSZtoRNJlhkek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049105076872-5agl1rmg1hoen75ovttotnbh2i2t5ek0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049105076872-bkaj4nkkns1q5l0p8gndg5ddprutg5bd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stressedout"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049105076872:android:d218d957a5c241e08f053d",
+        "android_client_info": {
+          "package_name": "com.stressedout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049105076872-5agl1rmg1hoen75ovttotnbh2i2t5ek0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPeZmt7rJa2muaZKfCWQVSZtoRNJlhkek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049105076872-5agl1rmg1hoen75ovttotnbh2i2t5ek0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049105076872-bkaj4nkkns1q5l0p8gndg5ddprutg5bd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stressedout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
